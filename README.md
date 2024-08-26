@@ -39,7 +39,8 @@ CodeEditor is a real-time collaborative code editor that allows multiple users t
    cd codeeditor
 
 2. **Install Dependencies**
-   
+
+   ```bash
    npm install
 
 ## Running the Project
