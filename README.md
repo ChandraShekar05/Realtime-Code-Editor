@@ -24,24 +24,16 @@ CodeEditor is a real-time collaborative code editor that allows multiple users t
 
 ## Installation
 
-1. **Clone the repository:**
+   1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/your-username/codeeditor.git
-   cd codeeditor
-  
-## Installation
+      ```bash
+      git clone https://github.com/ChandraShekar05/Realtime-Code-Editor.git
+      cd codeeditor
 
-1. **Clone the repository:**
+   2. **Install Dependencies**
 
-   ```bash
-   git clone https://github.com/ChandraShekar05/Realtime-Code-Editor.git
-   cd codeeditor
-
-2. **Install Dependencies**
-
-   ```bash
-   npm install
+      ```bash
+      npm install
 
 ## Running the Project
 
